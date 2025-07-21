@@ -8,7 +8,7 @@ This project is a professional Excel dashboard showcasing coffee sales from 2019
 - Conditional formatting
 
 ## 📸 Preview[
-![Dashboard Preview](https://github.com/Hillarywolf23/coffee-sales-dashboard/blob/main/Coffee-Dashboard.png))
+![Dashboard Preview](https://github.com/Hillarywolf23/coffee-sales-dashboard/blob/main/Coffee-Dashboard.png)
 
 ## 📁 Download
 [Click here to download the Excel file](coffeeSalesDashboard.xlsx)
